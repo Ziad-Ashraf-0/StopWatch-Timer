@@ -1,0 +1,14 @@
+.\led.o: led.c
+.\led.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\led.o: gpio.h
+.\led.o: std_types.h
+.\led.o: lcd.h
+.\led.o: delay.h
+.\led.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\led.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\led.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\led.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\led.o: C:/Keil/EE319Kware/inc/tm4c123gh6pm.h
